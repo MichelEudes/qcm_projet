@@ -1,12 +1,40 @@
-# React + Vite
+# 🎯 Takaa Quizz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Takaa Quizz** est une application web interactive de quiz culturel développée avec **React** et **Tailwind CSS**. Elle permet à l'utilisateur de choisir le nombre de questions, répondre une à une, valider ses réponses, puis obtenir une **correction détaillée** à la fin du quiz.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Fonctionnalités
 
-## Expanding the ESLint configuration
+- ✅ Sélection du nombre de questions au démarrage
+- 🧠 Questions en culture générale
+- ✍️ Réponses validées une à une (pas de passage automatique)
+- 📊 Résultat final avec correction complète
+- 💡 Affichage de la bonne réponse avec son **indice d'origine**
+- 🔁 Rejouer le quiz à volonté
+- 📈 Barre de progression
+- 🌈 Animations fluides et design épuré
+- 📱 Responsive et agréable sur tous les écrans
+- 🖼️ Illustration d'accueil personnalisée avec le logo **Takaa Quizz**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies utilisées
+
+- [React](https://reactjs.org/) (Vite)
+- [Tailwind CSS](https://tailwindcss.com/)
+- JavaScript (ES6+)
+- JSON (pour les données de questions)
+
+---
+
+## 📦 Installation
+
+1. Clone le dépôt :
+   ```bash
+   git clone https://github.com/ton-utilisateur/takaa-quizz.git
+   cd takaa-quizz
+2. Installe les dépendances :
+   npm install
+3. Lance le serveur de développement :
+   npm run dev
