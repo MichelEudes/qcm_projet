@@ -1,0 +1,773 @@
+[
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "options": [
+            "Paris",
+            "Lyon",
+            "Marseille",
+            "Toulouse"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "Quel est le plus grand océan du monde ?",
+        "options": [
+            "Atlantique",
+            "Indien",
+            "Arctique",
+            "Pacifique"
+        ],
+        "answer": "Pacifique"
+    },
+    {
+        "question": "Qui a peint la Joconde ?",
+        "options": [
+            "Michel-Ange",
+            "Léonard de Vinci",
+            "Raphaël",
+            "Donatello"
+        ],
+        "answer": "Léonard de Vinci"
+    },
+    {
+        "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+        "options": [
+            "1965",
+            "1969",
+            "1972",
+            "1959"
+        ],
+        "answer": "1969"
+    },
+    {
+        "question": "Quel est le pays le plus peuplé du monde ?",
+        "options": [
+            "Inde",
+            "États-Unis",
+            "Chine",
+            "Russie"
+        ],
+        "answer": "Chine"
+    },
+    {
+        "question": "Quelle est la langue officielle du Brésil ?",
+        "options": [
+            "Espagnol",
+            "Portugais",
+            "Anglais",
+            "Français"
+        ],
+        "answer": "Portugais"
+    },
+    {
+        "question": "Quel élément chimique a pour symbole 'O' ?",
+        "options": [
+            "Or",
+            "Oxygène",
+            "Osmium",
+            "Oganesson"
+        ],
+        "answer": "Oxygène"
+    },
+    {
+        "question": "Quel est le plus grand désert du monde ?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Antarctique"
+        ],
+        "answer": "Antarctique"
+    },
+    {
+        "question": "Qui a écrit 'Les Misérables' ?",
+        "options": [
+            "Victor Hugo",
+            "Émile Zola",
+            "Gustave Flaubert",
+            "Albert Camus"
+        ],
+        "answer": "Victor Hugo"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'or ?",
+        "options": [
+            "Au",
+            "Ag",
+            "Fe",
+            "Pb"
+        ],
+        "answer": "Au"
+    },
+    {
+        "question": "Quel est le plus long fleuve du monde ?",
+        "options": [
+            "Nil",
+            "Amazone",
+            "Yangtsé",
+            "Mississippi"
+        ],
+        "answer": "Nil"
+    },
+    {
+        "question": "Combien de joueurs y a-t-il dans une équipe de football sur le terrain ?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "9"
+        ],
+        "answer": "11"
+    },
+    {
+        "question": "Quel pays a inventé les jeux olympiques ?",
+        "options": [
+            "Italie",
+            "Grèce",
+            "Égypte",
+            "Chine"
+        ],
+        "answer": "Grèce"
+    },
+    {
+        "question": "Quelle planète est la plus proche du Soleil ?",
+        "options": [
+            "Mercure",
+            "Vénus",
+            "Terre",
+            "Mars"
+        ],
+        "answer": "Mercure"
+    },
+    {
+        "question": "Quel est le nom du célèbre physicien qui a formulé la loi de la gravitation universelle ?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galilée",
+            "Nikola Tesla"
+        ],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "Quel est le plus grand pays du monde par superficie ?",
+        "options": [
+            "Canada",
+            "Chine",
+            "États-Unis",
+            "Russie"
+        ],
+        "answer": "Russie"
+    },
+    {
+        "question": "Quelle est la monnaie officielle du Japon ?",
+        "options": [
+            "Yuan",
+            "Won",
+            "Yen",
+            "Dollar"
+        ],
+        "answer": "Yen"
+    },
+    {
+        "question": "Dans quel pays se trouve la Tour de Pise ?",
+        "options": [
+            "France",
+            "Italie",
+            "Espagne",
+            "Allemagne"
+        ],
+        "answer": "Italie"
+    },
+    {
+        "question": "Quelle est la capitale de l'Australie ?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Quel est l'organe principal du système circulatoire humain ?",
+        "options": [
+            "Poumon",
+            "Cœur",
+            "Foie",
+            "Rein"
+        ],
+        "answer": "Cœur"
+    },
+    {
+        "question": "Quelle est la langue officielle de l'Égypte ?",
+        "options": [
+            "Arabe",
+            "Français",
+            "Anglais",
+            "Espagnol"
+        ],
+        "answer": "Arabe"
+    },
+    {
+        "question": "Quelle est la formule chimique de l'eau ?",
+        "options": [
+            "CO2",
+            "H2O",
+            "O2",
+            "NaCl"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "question": "Quelle est la capitale de l'Allemagne ?",
+        "options": [
+            "Berlin",
+            "Munich",
+            "Francfort",
+            "Hambourg"
+        ],
+        "answer": "Berlin"
+    },
+    {
+        "question": "Qui a découvert la pénicilline ?",
+        "options": [
+            "Marie Curie",
+            "Alexander Fleming",
+            "Louis Pasteur",
+            "Isaac Newton"
+        ],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "Combien de continents y a-t-il sur Terre ?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "Quelle est la capitale du Canada ?",
+        "options": [
+            "Toronto",
+            "Montréal",
+            "Ottawa",
+            "Vancouver"
+        ],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "Quelle est la plus grande planète du système solaire ?",
+        "options": [
+            "Jupiter",
+            "Saturne",
+            "Terre",
+            "Neptune"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Quel est le symbole chimique du fer ?",
+        "options": [
+            "Fe",
+            "Fi",
+            "Ir",
+            "Fr"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "question": "Qui a écrit 'Roméo et Juliette' ?",
+        "options": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Victor Hugo",
+            "Fiodor Dostoïevski"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Quelle est la capitale de l'Inde ?",
+        "options": [
+            "Mumbai",
+            "New Delhi",
+            "Kolkata",
+            "Chennai"
+        ],
+        "answer": "New Delhi"
+    },
+    {
+        "question": "Quel est le plus haut sommet du monde ?",
+        "options": [
+            "K2",
+            "Everest",
+            "Kangchenjunga",
+            "Lhotse"
+        ],
+        "answer": "Everest"
+    },
+    {
+        "question": "Quelle est la capitale de l'Italie ?",
+        "options": [
+            "Rome",
+            "Milan",
+            "Naples",
+            "Turin"
+        ],
+        "answer": "Rome"
+    },
+    {
+        "question": "Quelle est la vitesse de la lumière ?",
+        "options": [
+            "300 000 km/s",
+            "150 000 km/s",
+            "30 000 km/s",
+            "3 000 km/s"
+        ],
+        "answer": "300 000 km/s"
+    },
+    {
+        "question": "Quel est l'organe principal du système respiratoire ?",
+        "options": [
+            "Cœur",
+            "Poumon",
+            "Estomac",
+            "Foie"
+        ],
+        "answer": "Poumon"
+    },
+    {
+        "question": "Quelle est la capitale de la Russie ?",
+        "options": [
+            "Moscou",
+            "Saint-Pétersbourg",
+            "Novossibirsk",
+            "Vladivostok"
+        ],
+        "answer": "Moscou"
+    },
+    {
+        "question": "Quelle est la monnaie officielle de la Suisse ?",
+        "options": [
+            "Euro",
+            "Franc suisse",
+            "Dollar",
+            "Livre sterling"
+        ],
+        "answer": "Franc suisse"
+    },
+    {
+        "question": "Quel est le plus grand lac d'eau douce ?",
+        "options": [
+            "Lac Supérieur",
+            "Lac Victoria",
+            "Lac Baïkal",
+            "Lac Tanganyika"
+        ],
+        "answer": "Lac Supérieur"
+    },
+    {
+        "question": "Qui a écrit 'Le Petit Prince' ?",
+        "options": [
+            "Antoine de Saint-Exupéry",
+            "Victor Hugo",
+            "Albert Camus",
+            "Émile Zola"
+        ],
+        "answer": "Antoine de Saint-Exupéry"
+    },
+    {
+        "question": "Quelle est la capitale de la Grèce ?",
+        "options": [
+            "Athènes",
+            "Thessalonique",
+            "Patras",
+            "Héraklion"
+        ],
+        "answer": "Athènes"
+    },
+    {
+        "question": "Quelle est la planète connue comme la planète rouge ?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturne",
+            "Venus"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "question": "Quel pays est surnommé 'le pays du Soleil Levant' ?",
+        "options": [
+            "Chine",
+            "Corée du Sud",
+            "Japon",
+            "Thaïlande"
+        ],
+        "answer": "Japon"
+    },
+    {
+        "question": "Quel est le plus grand pays d'Afrique ?",
+        "options": [
+            "Algérie",
+            "Soudan",
+            "Libye",
+            "Égypte"
+        ],
+        "answer": "Algérie"
+    },
+    {
+        "question": "Quel est le métal principal utilisé pour fabriquer l'acier ?",
+        "options": [
+            "Fer",
+            "Aluminium",
+            "Cuivre",
+            "Plomb"
+        ],
+        "answer": "Fer"
+    },
+    {
+        "question": "Quel est l'organe principal du système digestif ?",
+        "options": [
+            "Estomac",
+            "Foie",
+            "Intestin",
+            "Rein"
+        ],
+        "answer": "Estomac"
+    },
+    {
+        "question": "Quelle est la capitale du Mexique ?",
+        "options": [
+            "Guadalajara",
+            "Monterrey",
+            "Mexico",
+            "Cancún"
+        ],
+        "answer": "Mexico"
+    },
+    {
+        "question": "Quelle est la plus grande île du monde ?",
+        "options": [
+            "Madagascar",
+            "Groenland",
+            "Bornéo",
+            "Sumatra"
+        ],
+        "answer": "Groenland"
+    },
+    {
+        "question": "Quelle est la capitale de la Turquie ?",
+        "options": [
+            "Istanbul",
+            "Ankara",
+            "Izmir",
+            "Bursa"
+        ],
+        "answer": "Ankara"
+    },
+    {
+        "question": "Qui a inventé le téléphone ?",
+        "options": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Albert Einstein"
+        ],
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "question": "Quel est le symbole chimique du sodium ?",
+        "options": [
+            "Na",
+            "S",
+            "So",
+            "Sd"
+        ],
+        "answer": "Na"
+    },
+    {
+        "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+        "options": [
+            "Brésil",
+            "Argentine",
+            "Colombie",
+            "Pérou"
+        ],
+        "answer": "Brésil"
+    },
+    {
+        "question": "Quelle est la capitale de la Chine ?",
+        "options": [
+            "Shanghai",
+            "Pékin",
+            "Hong Kong",
+            "Guangzhou"
+        ],
+        "answer": "Pékin"
+    },
+    {
+        "question": "Quelle est la monnaie officielle de l'Union européenne ?",
+        "options": [
+            "Dollar",
+            "Euro",
+            "Franc",
+            "Livre"
+        ],
+        "answer": "Euro"
+    },
+    {
+        "question": "Quelle est la durée d'une année sur Terre ?",
+        "options": [
+            "365 jours",
+            "360 jours",
+            "366 jours",
+            "364 jours"
+        ],
+        "answer": "365 jours"
+    },
+    {
+        "question": "Qui a écrit '1984' ?",
+        "options": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "Jules Verne"
+        ],
+        "answer": "George Orwell"
+    },
+    {
+        "question": "Quel est l'organe principal du système nerveux ?",
+        "options": [
+            "Cerveau",
+            "Cœur",
+            "Poumon",
+            "Foie"
+        ],
+        "answer": "Cerveau"
+    },
+    {
+        "question": "Quel est le pays d'origine du café ?",
+        "options": [
+            "Brésil",
+            "Éthiopie",
+            "Colombie",
+            "Vietnam"
+        ],
+        "answer": "Éthiopie"
+    },
+    {
+        "question": "Quelle est la capitale de la Belgique ?",
+        "options": [
+            "Bruxelles",
+            "Anvers",
+            "Gand",
+            "Liège"
+        ],
+        "answer": "Bruxelles"
+    },
+    {
+        "question": "Quel est le plus long fleuve d'Afrique ?",
+        "options": [
+            "Niger",
+            "Nil",
+            "Zambèze",
+            "Congo"
+        ],
+        "answer": "Nil"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'argent ?",
+        "options": [
+            "Ag",
+            "Au",
+            "Fe",
+            "Si"
+        ],
+        "answer": "Ag"
+    },
+    {
+        "question": "Quelle est la capitale de la Suède ?",
+        "options": [
+            "Stockholm",
+            "Göteborg",
+            "Malmö",
+            "Uppsala"
+        ],
+        "answer": "Stockholm"
+    },
+    {
+        "question": "Quel est le plus grand mammifère terrestre ?",
+        "options": [
+            "Éléphant",
+            "Girafe",
+            "Rhinocéros",
+            "Hippopotame"
+        ],
+        "answer": "Éléphant"
+    },
+    {
+        "question": "Quelle est la capitale du Portugal ?",
+        "options": [
+            "Lisbonne",
+            "Porto",
+            "Coimbra",
+            "Faro"
+        ],
+        "answer": "Lisbonne"
+    },
+    {
+        "question": "Quelle est la capitale de l'Argentine ?",
+        "options": [
+            "Buenos Aires",
+            "Córdoba",
+            "Rosario",
+            "Mendoza"
+        ],
+        "answer": "Buenos Aires"
+    },
+    {
+        "question": "Quel est le pays d'origine du tango ?",
+        "options": [
+            "Brésil",
+            "Argentine",
+            "Mexique",
+            "Cuba"
+        ],
+        "answer": "Argentine"
+    },
+    {
+        "question": "Quel est l'océan qui borde la côte est des États-Unis ?",
+        "options": [
+            "Atlantique",
+            "Pacifique",
+            "Indien",
+            "Arctique"
+        ],
+        "answer": "Atlantique"
+    },
+    {
+        "question": "Quel est le plus grand volcan actif du monde ?",
+        "options": [
+            "Vésuve",
+            "Eyjafjallajökull",
+            "Mauna Loa",
+            "Kilauea"
+        ],
+        "answer": "Mauna Loa"
+    },
+    {
+        "question": "Quelle est la capitale de la Norvège ?",
+        "options": [
+            "Oslo",
+            "Bergen",
+            "Trondheim",
+            "Stavanger"
+        ],
+        "answer": "Oslo"
+    },
+    {
+        "question": "Quelle est la capitale de la Finlande ?",
+        "options": [
+            "Helsinki",
+            "Tampere",
+            "Turku",
+            "Oulu"
+        ],
+        "answer": "Helsinki"
+    },
+    {
+        "question": "Quel est le plus grand désert chaud du monde ?",
+        "options": [
+            "Sahara",
+            "Kalahari",
+            "Désert de Sonora",
+            "Gobi"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Quel est le nombre de planètes dans notre système solaire ?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Quel est l'organe qui produit l'insuline ?",
+        "options": [
+            "Pancréas",
+            "Foie",
+            "Rein",
+            "Estomac"
+        ],
+        "answer": "Pancréas"
+    },
+    {
+        "question": "Quel est le fleuve qui traverse Paris ?",
+        "options": [
+            "Seine",
+            "Loire",
+            "Rhin",
+            "Rhône"
+        ],
+        "answer": "Seine"
+    },
+    {
+        "question": "Quelle est la capitale de l'Irlande ?",
+        "options": [
+            "Dublin",
+            "Cork",
+            "Galway",
+            "Limerick"
+        ],
+        "answer": "Dublin"
+    },
+    {
+        "question": "Quel est l’élément chimique avec le symbole 'He' ?",
+        "options": [
+            "Hydrogène",
+            "Hélium",
+            "Mercure",
+            "Fer"
+        ],
+        "answer": "Hélium"
+    },
+    {
+        "question": "Qui a écrit 'Le Seigneur des Anneaux' ?",
+        "options": [
+            "J.K. Rowling",
+            "J.R.R. Tolkien",
+            "George R.R. Martin",
+            "C.S. Lewis"
+        ],
+        "answer": "J.R.R. Tolkien"
+    },
+    {
+        "question": "Quel pays est surnommé le 'pays des mille lacs' ?",
+        "options": [
+            "Suède",
+            "Norvège",
+            "Finlande",
+            "Islande"
+        ],
+        "answer": "Finlande"
+    },
+    {
+        "question": "Quel est le plus grand océan froid ?",
+        "options": [
+            "Océan Arctique",
+            "Océan Atlantique",
+            "Océan Indien",
+            "Océan Pacifique"
+        ],
+        "answer": "Océan Arctique"
+    }
+
+]
