@@ -32,7 +32,7 @@
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/ton-utilisateur/takaa-quizz.git
+   git clone https://github.com/MichelEudes/qcm_projet
    cd takaa-quizz
 2. Installe les dépendances :
    npm install
